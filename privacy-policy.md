@@ -67,5 +67,5 @@ If the App is updated in a way that introduces data collection or processing, th
 
 If you have any questions about this Privacy Policy, you may contact the Developer at:
 
-**andrewpgray@gmail.com**
+**destinationschallenge [at] gmail.com**
 
